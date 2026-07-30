@@ -76,7 +76,7 @@ Himanshu-phogat-portfolio
 ├── eslint.config.js
 ├── extract-texture.mjs
 ├── inject-texture.mjs
-├── Himanshu_Phogat_Resume.pdf
+├── Resume.pdf
 ├── index.html
 ├── package.json
 ├── package-lock.json
