@@ -150,15 +150,15 @@ npm run preview
 My latest resume is included in the repository.
 
 ```
-Himanshu_Phogat_Resume.pdf
+Resume.pdf
 ```
 
 ---
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/your-linkedin
-- 🌐 Portfolio: [https://your-portfolio.vercel.app](https://himanshu-portfolio-ashy.vercel.app/)
+- 💼 LinkedIn: [https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/himanshu-phogat-371468270/)
+- 🌐 Portfolio: [[https://-portfolio.vercel.app](https://himanshu-portfolio-beryl.vercel.app/)](https://www.linkedin.com/in/himanshu-phogat-371468270/)
 - 💻 GitHub: https://github.com/himanshu0508
 - 📧 Email: hphogat5804@gmail.com
 
