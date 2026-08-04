@@ -10,8 +10,7 @@ A modern, responsive, and interactive personal portfolio showcasing my projects,
 
 ## 🔗 Live Demo
 
-**Portfolio:** https://your-portfolio.vercel.app
-
+**Portfolio:** https://himanshu-portfolio-delta-ashy.vercel.app/
 ---
 
 ## ✨ Features
@@ -158,7 +157,7 @@ Resume.pdf
 ## 🤝 Connect With Me
 
 - 💼 LinkedIn: [https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/himanshu-phogat-371468270/)
-- 🌐 Portfolio: [[https://-portfolio.vercel.app](https://himanshu-portfolio-beryl.vercel.app/)](https://www.linkedin.com/in/himanshu-phogat-371468270/)
+- 🌐 Portfolio: https://himanshu-portfolio-delta-ashy.vercel.app/
 - 💻 GitHub: https://github.com/himanshu0508
 - 📧 Email: hphogat5804@gmail.com
 
